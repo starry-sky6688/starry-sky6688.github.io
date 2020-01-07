@@ -1,15 +1,21 @@
-## Welcome to GitHub Pages
+# Personal Page of Jiarui Chen
 
-You can use the [editor on GitHub](https://github.com/starry-sky6688/starry-sky6688.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
+I (chenjiarui@smail.nju.edu.cn) obtained my B.S degree from DUFE, Dalian, China, in 2018. I am currently a master student leaded by Yang Gao in the Department of Computer Science and Technology, Nanjing University, Nanjing, China.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Reinforcement Learning
+- Multi Agent
 
-```markdown
-Syntax highlighted code block
+## Publication
+
+- DONG Shaokang, CHEN Jiarui, LIU Yong, BAO Tianyi, GAO Yang. Reinforcement Learning from Algorithm Model to Industry Innovation: A Foundation Stone of Future Artificial Intelligence.  [J] ZTE Communications
+
+- Shangdong Yang, Jiarui Chen, Yang Gao. MAHER: Hindsight Experience Replay for Cooperative Multi-Agent Multi-Goal Reinforcement Learning.
+
+
 
 # Header 1
 ## Header 2
